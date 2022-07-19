@@ -1,0 +1,63 @@
+﻿  소스.cpp
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(11,26): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(40,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(42,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(44,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(45,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(46,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(70,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(79,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(106,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(136,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(146,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(157,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(203,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(204,89): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(204,48): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(209,87): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(209,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(214,93): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(214,49): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(219,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(220,81): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(220,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(225,93): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(225,49): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(230,89): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(230,47): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(247,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(322,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(330,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(339,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(344,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(352,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(364,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(383,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(407,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(430,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(437,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(445,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(467,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(470,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(473,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(476,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(479,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(482,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(485,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(494,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(520,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(534,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(535,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(550,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(566,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(567,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(592,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(595,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(606,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(612,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(614,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(621,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(629,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(636,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\소스.cpp(678,31): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  Project1.vcxproj -> C:\Users\hansung\Desktop\2022\Graplics_OpenGL\실습\과제\Project1\Debug\Project1.exe
